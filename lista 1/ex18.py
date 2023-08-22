@@ -1,5 +1,6 @@
-"17) Fac¸a um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal,
-utilizando as seguintes formulas (onde h corresponde à altura): "
+"18) Faca um algoritmo que calcule a media das notas de 3 provas. A primeira e a segunda prova tem
+peso 5 e a terceira tem peso 10. Ao final, mostrar a média do aluno e indicar se o aluno foi
+aprovado ou reprovado. A nota para aprovação deve ser igual ou superior a 6.0 pontos."
 
 nota1 = float(input("Digite a nota de sua prova peso 10:"))
 nota2 = float(input("Digite a nota de sua prova peso 5:"))
